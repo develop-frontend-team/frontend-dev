@@ -31,7 +31,8 @@ npm run dev
 `localhost:5173`で下記スクショのようにブラウザが表示できたらOK
 ![image](./images/screenshot.png)
 
-
+## GitHub運用
+- ![images](./images/github-flow.drawio.png)
 ## 拡張機能
 - git graph
 - drawio
