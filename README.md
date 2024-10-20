@@ -21,3 +21,8 @@
 ```sh
 npm create vite@latest . -- --template react-ts
 ```
+
+
+## 拡張機能
+- git graph
+- drawio
