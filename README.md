@@ -18,9 +18,18 @@
 - バンドラ
   - VITE
 ## 環境構築
+- 適当なディレクトリをカレントディレクトリにして下さい
 ```sh
-npm create vite@latest . -- --template react-ts
+git clone https://github.com/develop-frontend-team/frontend-dev.git
 ```
+```sh
+npm install
+```
+```sh 
+npm run dev
+```
+`localhost:5173`で下記スクショのようにブラウザが表示できたらOK
+![image](./images/screenshot.png)
 
 
 ## 拡張機能
